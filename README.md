@@ -1,12 +1,12 @@
 # My Course Portfolio
 
-Welcome to my academic portfolio for [Course Name]!
+Welcome to my academic portfolio for CEP!
 
 ## About Me
-- Name: [Your Name]
-- Major: [Your Major]
+- Name: [Simreen Hundal]
+- Major: [Computer Programming and Analysis]
 - Year: [Your Academic Year]
-- Favorite Programming Language: [Your Choice]
+- Favorite Programming Language: [C/C++]
 
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
